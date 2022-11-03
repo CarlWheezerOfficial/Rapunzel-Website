@@ -22,3 +22,12 @@ html{
     background-color:#d3c37e;
     border-image:url("src/Paper.png") 20 round;
 }
+button{
+    border-image:url("src/Border.png") 4 stretch;
+    border-width:3px;
+    background-color:cadetblue;
+    color:aliceblue;
+}
+h3{
+    color:red;
+}
